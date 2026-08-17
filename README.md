@@ -1,17 +1,11 @@
-<div align="center">
-  <img src=".github/animegtihub/yamda.anna.png" alt="Profile Banner">
-  <h1>
-<a href="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg">
-    <img src="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg" width="100%" alt="Banner"/>
-  </a>
+<div style="width: 45%; float: right;">
+    <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
+        <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png"
+             width="20%"
+             alt="Banner">
+    </a>
 </div>
-<div align="center">
-<table>
-  <tr>
-
-
-
-
+    
   <a href="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg">
     <img src="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg" width="100%" alt="Banner"/>
   </a>
