@@ -12,7 +12,7 @@
 </p>
 <br clear="both" />
 
-vspace="10"
+<vspace>="10"
 
 <table>
   <tr>
