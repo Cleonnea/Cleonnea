@@ -11,12 +11,7 @@
   <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
 </p>
 <br clear="both" />
-</div>
-  <a href="https://Cleonnea.github.io/animegtihub/anime-frieren.gif">
-    <img src="https://Cleonnea.github.io/animegtihub/anime-frieren.gif" width="20%" alt="GIF">
-  </a>
-
-<br>
+anime-frieren.gif<br>
 
 <table>
   <tr>
