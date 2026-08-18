@@ -3,8 +3,10 @@
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
     <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="right" alt="Anime" />
   </a>
-
-  <!-- Stats / History di Kiri -->
+<p align="center">
+  <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
+    <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="48%" alt="GIF">
+  </a>
   <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="35%" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
