@@ -1,5 +1,4 @@
 <p>
-  <!-- Anime di Kanan (ditulis lebih dulu agar float-right rapi) -->
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
     <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="right" alt="Anime" />
   </a>
@@ -16,7 +15,10 @@
 <br/>
   </a>
 </div>
-
+p align="center">
+  <a href="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp">
+    <img src="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp" width="20%" alt="GIF">
+  </a>
 
 <br>
 
