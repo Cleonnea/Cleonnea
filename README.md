@@ -1,6 +1,6 @@
 <div style="width: 45; float: right;">
-    <a href="https://Cleonnea.github.io/animegtihub/japan-gif.gif">
-        <img src="https://Cleonnea.github.io/animegtihub/japan-gif.gif"
+    <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
+        <img src="https://Cleonnea.github.io/animegtihub/giphy.gif"
              width="20%"
              alt="Banner">
 
