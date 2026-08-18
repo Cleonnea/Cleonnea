@@ -1,16 +1,15 @@
 <p>
-  <!-- Anime di Kiri -->
+  <!-- Anime di Kanan (ditulis lebih dulu agar float-right rapi) -->
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="left" alt="Anime" />
+    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="38%" align="right" alt="Anime" />
   </a>
 
-  <!-- Stats / History di Kanan -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="60%" alt="GitHub Stats" />
+  <!-- Stats / History di Kiri -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="58%" alt="GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="60%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="58%" alt="Streak Stats" />
 </p>
 <br clear="both" />
-
 
 
 
