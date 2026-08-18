@@ -136,3 +136,8 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
 </div> 
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
+<br clear="both" />
+
