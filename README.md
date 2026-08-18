@@ -7,28 +7,6 @@
   </a>
 </p>
 
-
-
-
-
-
-
-
-
-<div style="width: 45; float: right;">
-    <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
-        <img src="https://Cleonnea.github.io/animegtihub/giphy.gif"
-             width="20%"
-             alt="Banner">
-
-<div style="width: 45; float: right;">
-    <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-        <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png"
-             width="20%"
-             alt="Banner">
-    </a>
-</div>
-
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
   <h1>
