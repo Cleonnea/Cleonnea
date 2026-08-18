@@ -12,9 +12,6 @@
 </p>
 <br clear="both" />
 
-<table cellpadding="10">
-</table>
-
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
