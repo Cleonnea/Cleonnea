@@ -8,6 +8,9 @@
   </a>
 </p>
 
+![](https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true)<br/>
+
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
   <h1>
