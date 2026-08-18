@@ -5,11 +5,6 @@
              alt="Banner">
     </a>
 </div>
-    
-  <a href="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg">
-    <img src="https://github.com/Cleonnea/gambar/blob/main/anime-little-girl-rain-umbrella-ni-1366x768.jpg" width="100%" alt="Banner"/>
-  </a>
-</div>
 
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
