@@ -15,10 +15,6 @@
 
 ---
 
-<a href="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg">
-    <img src="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg" width="100%" alt="Banner"/>
-  </a>
-</div>
 
 <br>
 
