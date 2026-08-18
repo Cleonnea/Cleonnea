@@ -1,31 +1,17 @@
-<!-- Stats di kiri (ditumpuk) -->
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
-
-<!-- Gambar di bawahnya (GIF di kiri, Anime di kanan) -->
-<p align="center">
-  <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
-    <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="48%" alt="GIF">
-  </a>
-  <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" alt="Anime">
-  </a>
-</p>
-
-
-
-
-
-
-
 
 <p align="center">
   <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
     <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="48%" alt="GIF">
   </a>
+
+
+
+
+
+
+
+   ![](https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true)<br/> 
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
     <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" alt="Anime">
   </a>
