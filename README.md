@@ -10,18 +10,7 @@
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
   <h1>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Cat">
-  </h1>
-</div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Cleonnea&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br>
 
 <table>
   <tr>
