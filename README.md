@@ -19,6 +19,11 @@
 <br clear="both" />
 
 
+<a href="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg">
+    <img src="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
+
 <br>
 
 <table>
@@ -127,12 +132,6 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
-<br clear="both" />
-  <a href="https://Cleonnea.github.io/logo/wallpaper(2).jpg">
-    <img src="https://Cleonnea.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
-  </a>
-</div>
 
 <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
