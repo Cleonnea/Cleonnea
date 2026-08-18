@@ -1,17 +1,11 @@
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
-        <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="100%" alt="GIF">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-        <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="100%" alt="Anime">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
+    <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="48%" alt="GIF">
+  </a>
+  <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
+    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" alt="Anime">
+  </a>
+</p>
 
 
 
