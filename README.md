@@ -11,10 +11,8 @@
   <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
 </p>
 <br clear="both" />
-
-<vspace>
-<vspace>
-<vspace>
+⠀⠀⠀⠀
+⠀
   
 <table>
   <tr>
