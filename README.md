@@ -14,7 +14,7 @@
 <br/>
 
 ---
- width="100%" alt="Banner"/>
+/>
   </a>
 </div>
 
