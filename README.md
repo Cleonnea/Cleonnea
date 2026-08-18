@@ -13,10 +13,6 @@
 </p>
 <br clear="both" />
 
-<div align="center">
-  <img src=".github/assets/ken.gif" alt="Profile Banner">
-  <h1>
-
 <br/>
 
   </a>
