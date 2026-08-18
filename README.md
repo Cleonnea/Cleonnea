@@ -1,6 +1,14 @@
+ </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://raw.githubusercontent.com/Cleonnea/animegtihub/main/frieren-crying.gif">
+        <img src="https://raw.githubusercontent.com/Cleonnea/animegtihub/main/frieren-crying.gif" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <div style="width: 45; float: right;">
-    <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-        <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png"
+    <a href="https://Cleonnea.github.io/animegtihub/makima-looking-at-you-monochrome-chainsaw-man-moewalls-com (1).mp4">
+        <img src="https://Cleonnea.github.io/animegtihub/makima-looking-at-you-monochrome-chainsaw-man-moewalls-com (1).mp4"
              width="20%"
              alt="Banner">
     </a>
