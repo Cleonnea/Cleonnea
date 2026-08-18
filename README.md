@@ -1,9 +1,7 @@
 <p>
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="38%" align="right" alt="Anime" />
+    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="right" alt="Anime" />
   </a>
-</p>
-
 <p align="center">
   <a href="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp">
     <img src="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp" width="20%" alt="GIF">
@@ -12,10 +10,15 @@
   <br />
   <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
 </p>
-
 <br clear="both" />
-<br /><br />
-
+⠀⠀⠀⠀
+<table>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+    </td>
+  </tr>
+  <tr>
+    
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
@@ -129,4 +132,5 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
+
 
