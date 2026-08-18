@@ -4,8 +4,8 @@
     <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="right" alt="Anime" />
   </a>
 <p align="center">
-  <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
-    <img src="https://Cleonnea.github.io/animegtihub/giphy.gif" width="48%" alt="GIF">
+  <a href="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp">
+    <img src="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp" width="48%" alt="GIF">
   </a>
   <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="35%" alt="GitHub Stats" />
   <br />
