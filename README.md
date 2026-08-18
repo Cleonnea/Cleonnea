@@ -1,6 +1,3 @@
-![](https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true)<br/>
-
 
 <p align="center">
   <a href="https://Cleonnea.github.io/animegtihub/giphy.gif">
