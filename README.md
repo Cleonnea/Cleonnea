@@ -14,7 +14,7 @@
 ⠀⠀⠀⠀
 <table>
   <tr>
-    <td colspan="2" align="center" valign="middle">
+    <td">
     </td>
   </tr>
   <tr>
