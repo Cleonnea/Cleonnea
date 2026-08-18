@@ -1,7 +1,7 @@
 <p>
   <!-- Anime di Kiri -->
   <a href="https://Cleonnea.github.io/animegtihub/yamda.anna.png">
-    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="35%" align="left" alt="Anime" />
+    <img src="https://Cleonnea.github.io/animegtihub/yamda.anna.png" width="48%" align="left" alt="Anime" />
   </a>
 
   <!-- Stats / History di Kanan -->
