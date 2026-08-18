@@ -41,8 +41,8 @@ Driven by a passion for minimalist design and high-performance web engineering, 
 Currently, I am leading the development of FileGhosta privacy focused file sharing platform and Updrop, an advanced automation utility. My core tech stack includes React, Tailwind CSS, local AI implementation, and pipeline orchestration using n8n to streamline complex processes.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://Cleonnea.github.io/logo5/download (2).jpg">
-        <img src="https://Cleonnea.github.io/logo5/download (2).jpg" width="220" alt="About Me Portrait"/>
+      <a href="https://Cleonnea.github.io/animegtihub/linux pixel.png">
+        <img src="https://Cleonnea.github.io/animegtihub/linux pixel.png" width="220" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
