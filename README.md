@@ -12,8 +12,8 @@
 </p>
 <br clear="both" />
 </div>
-  <a href="https://Cleonnea.github.io/animegtihub/japan-gif.gif">
-    <img src="https://Cleonnea.github.io/animegtihub/japan-gif.gif" width="20%" alt="GIF">
+  <a href="https://Cleonnea.github.io/animegtihub/anime-frieren.gif">
+    <img src="https://Cleonnea.github.io/animegtihub/anime-frieren.gif" width="20%" alt="GIF">
   </a>
 
 <br>
