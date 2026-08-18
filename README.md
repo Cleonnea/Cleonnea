@@ -112,8 +112,8 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
     </td>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
+    <!<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="flutter" />
     </td> -->
   </tr>
 </table>
