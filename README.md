@@ -5,10 +5,11 @@
 <p align="center">
   <a href="https://cleonnea.github.io/animegithub/92d29da89e87dc736e4f386e1004b0c0.webp">
     <img src="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp" width="20%" alt="GIF">
-   <td align="center" valign="middle" width="30%">
-      <a href="https://Cleonnea.github.io/animegtihub/linux pixel.png">
-        <img src="https://Cleonnea.github.io/animegtihub/linux pixel.png"
-
+  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="35%" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
+</p>
 <br clear="both" />
 ⠀⠀⠀⠀
 <table>
