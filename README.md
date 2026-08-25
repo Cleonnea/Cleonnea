@@ -134,20 +134,3 @@ Currently, I am actively exploring various interactive web projects and process 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
-
-
-
->⌘ Commit Activity</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph.svg">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg">
-</p>
-
-<h2 align="center"
