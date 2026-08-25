@@ -8,6 +8,7 @@
   </a>
 <a href="https://Cleonnea.github.io/animegtihub/giphy (4).gif">
     <img src="https://Cleonnea.github.io/animegtihubgiphy (4).gif" width="48%" align="right" alt="Anime" />
+  </p>
 <br clear="both" />
 ⠀⠀⠀⠀
 <table>
