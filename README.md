@@ -132,7 +132,7 @@ Currently, I am actively exploring various interactive web projects and process 
 </div> 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?neaa=Cleonnea&theme=high-contrast&hide_border=true&area=true&v=1" />
 <br clear="both" />
 
 
