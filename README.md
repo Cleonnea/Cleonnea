@@ -137,13 +137,19 @@ Currently, I am actively exploring various interactive web projects and process 
 
 
 
+## ⌘ Commit Activity
 
-# Hi, I'm Cleonnea 👋
+<picture>
+  <!-- Mode Gelap -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg">
 
-## 📊 GitHub Statistics
+  <!-- Mode Terang -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph.svg">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?neaa=Cleonnea&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?neaa=Cleonnea&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Cleonnea&theme=tokyonight)
+  <!-- Fallback -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
+  </p>
+</picture>
