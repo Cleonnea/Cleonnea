@@ -4,7 +4,12 @@
   </a>
 <p align="center">
   <a href="https://cleonnea.github.io/animegithub/92d29da89e87dc736e4f386e1004b0c0.webp">
-
+    <img src="https://Cleonnea.github.io/animegtihub/92d29da89e87dc736e4f386e1004b0c0.webp" width="20%" alt="GIF">
+  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=Cleonnea&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="35%" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Cleonnea&theme=dark&hide_border=true" width="40%" alt="Streak Stats" />
+</p>
 <br clear="both" />
 ⠀⠀⠀⠀
 <table>
@@ -129,5 +134,3 @@ Currently, I am actively exploring various interactive web projects and process 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
-
-
