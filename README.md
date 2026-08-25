@@ -141,13 +141,13 @@ Currently, I am actively exploring various interactive web projects and process 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg">
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph.svg">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Cleonnea/Cleonnea/output/pacman-contribution-graph-dark.svg">
 </p>
 
 <h2 align="center"
