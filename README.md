@@ -131,7 +131,7 @@ Currently, I am actively exploring various interactive web projects and process 
   <img src=".github/assets/ken.gif" alt="Profile Banner">
 </div> 
 
-Activity Graph GitHub Stats
+ GitHub Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
